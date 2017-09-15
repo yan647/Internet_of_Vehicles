@@ -17,6 +17,7 @@
  <br>
 APP首页
  <br>
+ <img src="https://github.com/yan647/Internet_of_Vehicles/blob/master/show/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86.gif">
 正在完善.....
 <h1>赛题要求</h1>
  <br>
