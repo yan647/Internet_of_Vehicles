@@ -36,9 +36,8 @@
  <br>设置
  <img src="https://github.com/yan647/Internet_of_Vehicles/blob/master/show/%E8%AE%BE%E7%BD%AE.gif">
 
-<h1>赛题要求</h1>
- <br>
-正在完善.....
+<h1>全部功能</h1>
+<img src="https://github.com/yan647/Internet_of_Vehicles/blob/master/show/%E5%85%A8%E9%83%A8%E5%8A%9F%E8%83%BD.png">
 <h1>功能亮点</h1>
  <br>
 正在完善.....
