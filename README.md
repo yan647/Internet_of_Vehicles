@@ -26,7 +26,7 @@
  <br>违章查询
  <img src="https://github.com/yan647/Internet_of_Vehicles/blob/master/show/%E8%BF%9D%E7%AB%A0%E6%9F%A5%E8%AF%A2.gif">
  <br>附近加油站
- <img src="https://github.com/yan647/Internet_of_Vehicles/blob/master/show/%E9%99%84%E8%BF%91%E5%8A%A0%E6%B2%B9%E7%AB%99.gif">
+ <img src="https://github.com/yan647/Internet_of_Vehicles/blob/master/show/%E9%99%84%E8%BF%91%E5%8A%A0%E6%B2%B9%E7%AB%99.gif" >
  <br>音乐
  <img src="https://github.com/yan647/Internet_of_Vehicles/blob/master/show/%E9%9F%B3%E4%B9%90.gif">
  <br>消息推送
@@ -39,5 +39,4 @@
 <h1>全部功能</h1>
 <img src="https://github.com/yan647/Internet_of_Vehicles/blob/master/show/%E5%85%A8%E9%83%A8%E5%8A%9F%E8%83%BD.png">
 <h1>功能亮点</h1>
- <br>
-正在完善.....
+<img src="https://github.com/yan647/Internet_of_Vehicles/blob/master/show/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C.png">
